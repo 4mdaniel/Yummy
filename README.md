@@ -47,16 +47,22 @@ Para utilizar o projeto localmente, é necessário ter instalado:
 3️⃣ Visual Studio Code (ou outro editor de código de sua preferência).
 
 
+
 🏁 Como Utilizar o Projeto
+
 
 
 🔹 Passo 1: Configurar o Servidor
 
+
 1️⃣ Instale e inicie o XAMPP.
+
 
 2️⃣ Ative o Apache e o MySQL no painel de controle do XAMPP.
 
+
 3️⃣ Abra o PHPMYADMIN e crie um banco de dados chamado yummy.
+
 
 4️⃣ Importe o arquivo SQL para configurar as tabelas necessárias.
 
@@ -64,15 +70,21 @@ Para utilizar o projeto localmente, é necessário ter instalado:
 
 🔹 Passo 2: Configurar o Projeto
 
+
 1️⃣ Extraia o arquivo yummy.rar para a pasta htdocs do XAMPP.
 
+
 2️⃣ Abra o Visual Studio Code e carregue a pasta do projeto.
+
 
 3️⃣ Configure o arquivo de conexão com o banco de dados (connection.php).
 
 
+
 🔹 Passo 3: Executar a Aplicação
 
+
 1️⃣ Abra um navegador e acesse: http://localhost/yummy
+
 
 2️⃣ Explore as funcionalidades da plataforma!
