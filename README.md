@@ -49,6 +49,7 @@ Para utilizar o projeto localmente, é necessário ter instalado:
 
 🏁 Como Utilizar o Projeto
 
+
 🔹 Passo 1: Configurar o Servidor
 
 1️⃣ Instale e inicie o XAMPP.
@@ -60,6 +61,7 @@ Para utilizar o projeto localmente, é necessário ter instalado:
 4️⃣ Importe o arquivo SQL para configurar as tabelas necessárias.
 
 
+
 🔹 Passo 2: Configurar o Projeto
 
 1️⃣ Extraia o arquivo yummy.rar para a pasta htdocs do XAMPP.
@@ -67,6 +69,7 @@ Para utilizar o projeto localmente, é necessário ter instalado:
 2️⃣ Abra o Visual Studio Code e carregue a pasta do projeto.
 
 3️⃣ Configure o arquivo de conexão com o banco de dados (connection.php).
+
 
 🔹 Passo 3: Executar a Aplicação
 
