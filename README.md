@@ -9,9 +9,13 @@ A aplicação permite que os utilizadores pesquisem receitas e interegam, tornan
 🚀 Funcionalidades Principais
 
 ✅ Pesquisa de receitas.
+
 ✅ Partilha de receitas entre utilizadores.
+
 ✅ Comentários entre as receitas.
+
 ✅ Edição completa das receitas.
+
 ✅ Armazenamento seguro de informações dos utilizadores.
 
 🛠 Tecnologias Utilizadas
